@@ -1,5 +1,4 @@
-        /*
-        Desafio
+        /* Desafio
 
 
         O objetivo deste desafio é resolvê-lo utilizando o seu conhecimento sobre Arrays, uma estrutura de dados que armazena uma coleção de dados em um bloco de memória.
@@ -30,6 +29,7 @@
         Adriana
         2
         */
+
         import java.io.IOException;
         import java.util.Scanner;
 
@@ -40,11 +40,10 @@
         String[] nomes = new String[5];
         for (int i = 0; i < nomes.length; i++)
         {
-// TODO: complete os espaços em branco com sua solução para o problema
-            nomes[i ] = input.nextLine();
+            nomes[i] = input.nextLine();
         }
 
         int pos = input.nextInt();
-        System.out.println(  nomes [pos]  );
+        System.out.println(nomes [pos]);
     }
 }

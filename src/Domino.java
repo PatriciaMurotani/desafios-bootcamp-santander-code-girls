@@ -1,8 +1,4 @@
-
-
-
-/*
-Desafio
+/* Desafio
 
 O tradicional jogo de dominó possui 28 peças, sendo que ada peça está dividida em dois quadrados e dentro de cada quadrado há entre 0 e 6 círculos. O jogo é chamado também de duplo-6 porque esse é o maior número de círculos que aparece num quadrado de uma peça.
 
@@ -28,6 +24,7 @@ Exemplos de Entrada      	Exemplos de Saída
 12                          91
  */
 
+import java.util.Scanner;
 
 public class Domino {
     public static void main(String[] args) {
