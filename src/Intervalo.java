@@ -13,14 +13,14 @@
         A saída deve ser uma mensagem conforme exemplo abaixo.
 
 
-        Exemplo de Entrada	  Exemplo de Saída
-        25.01                 Intervalo (25,50]
+        Exemplo de Entrada	       Exemplo de Saída
+        25.01                      Intervalo (25,50]
 
-        25.00                 Intervalo [0,25]
+        25.00                      Intervalo [0,25]
 
-        100.00                Intervalo (75,100]
+        100.00                     Intervalo (75,100]
 
-        -25.02                Fora de intervalo
+        -25.02                     Fora de intervalo
 */
 
 import java.io.IOException;

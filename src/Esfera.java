@@ -9,7 +9,7 @@ Saída
 A saída deverá ser uma mensagem "VOLUME" conforme o exemplo fornecido abaixo, com um espaço antes e um espaço depois da igualdade. O valor deverá ser apresentado com 3 casas após o ponto.
 
 
-Exemplos de Entrada	          Exemplos de Saída
+Exemplos de Entrada	           Exemplos de Saída
 3                              VOLUME = 113.097
 
 15                             VOLUME = 14137.155

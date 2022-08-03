@@ -8,7 +8,7 @@ Entrada	              Saída
 750
 
 Exemplo 2
-Entrada	               Saída
+Entrada	                Saída
 5000                    Brancos: 26%
 1300                    Nulos: 10%
 500                     Válidos: 64%
